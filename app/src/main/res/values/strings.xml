@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourseApi</string>
+    <string name="valLeft">Lewy</string>
+    <string name="valRight">Prawy</string>
+    <string name="valCenterText">Bazowy tekst center</string>
+    <string name="valPasswordErrorMsg">Hasło za krótkie</string>
+    <string name="valPasswordCorrectMsg">Podane hasło jest prawidłowe</string>
+</resources>
